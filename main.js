@@ -229,5 +229,5 @@ var getScriptPromisify = (src) => {
     }
   }
 
-  customElements.define('com-sap-sac-sample-echarts-sankeyyg', Main)
+  customElements.define('com-sap-sac-sample-echarts-DeeSAC', Main)
 })()
